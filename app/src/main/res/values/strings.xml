@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nequiapp</string>
+    <string name="txt_new_account">Nueva Cuenta</string>
+    <string name="txt_btn_guardar">Guardar</string>
+    <string name="txt_name_acoount">Nombre de la Cuenta</string>
+    <string name="txt_type_account">Tipo de Cuenta</string>
+    <string name="txt_balance">Saldo Inicial</string>
+</resources>
