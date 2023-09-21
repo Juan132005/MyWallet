@@ -5,4 +5,9 @@
     <string name="txt_name_acoount">Nombre de la Cuenta</string>
     <string name="txt_type_account">Tipo de Cuenta</string>
     <string name="txt_balance">Saldo Inicial</string>
+
+    <string name="txt_name">Nombre:</string>
+    <string name="txt_color">Color:</string>
+    <string name="txt_cat">Categorías</string>
+
 </resources>
